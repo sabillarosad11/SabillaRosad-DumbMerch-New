@@ -20,7 +20,7 @@ const Category = () => {
               Category
             </Nav.Link>
             <Nav.Link className="nav-link" href="#">
-              Profile
+              Product
             </Nav.Link>
             <Nav.Link className="nav-link" href="#">
               Logout
