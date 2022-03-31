@@ -1,7 +1,7 @@
 import React from 'react'
 import NavbarMerch from "../Component/Navbar";
 import { Container, Row, Col, Card} from "react-bootstrap";
-import "./Homepage.css";
+import "./style/Homepage.css";
 import mouse from "../asset/mouse.jpg";
 import keyboard from "../asset/keyboard.jpg";
 

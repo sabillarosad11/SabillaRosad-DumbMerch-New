@@ -1,7 +1,7 @@
 import React from 'react'
 import NavbarMerch from "../Component/Navbar";
 import { Container, Row, Col, Image, Button } from "react-bootstrap";
-import "./Detail-product.css";
+import "./style/Detail-product.css";
 import DetailMouse from '../asset/DetailMouse.jpg'
 
 const DetailProduct = () => {

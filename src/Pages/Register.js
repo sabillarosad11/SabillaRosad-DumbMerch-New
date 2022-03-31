@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col, Form, Button, Image } from "react-bootstrap";
 import logoDumbMerch from "../asset/logoDumbMerch.png";
-import "./Register.css";
+import "./style/Register.css";
 
 const Register = () => {
   return (

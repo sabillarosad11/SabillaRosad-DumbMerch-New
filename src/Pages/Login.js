@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Row, Col, Form, Button, Image} from 'react-bootstrap';
 import logoDumbMerch from "../asset/logoDumbMerch.png";
-import './Login.css';
+import './style/Login.css';
 
 const Login = () => {
   return (

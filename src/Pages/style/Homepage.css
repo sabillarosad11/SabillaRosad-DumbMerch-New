@@ -1,0 +1,41 @@
+* {
+    color: #fff;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0B0B0B !important;
+}
+
+.container-main {
+    padding: 40px !important;
+}
+
+h6 {
+    color: #F74D4D;
+    margin-bottom: 20px !important;
+}
+
+.card {
+    background-color: #212121 !important;
+    width: 168px;
+    height: 306px;
+    border-radius: 5px !important;
+
+}
+
+.card-body {
+    padding-bottom: 2px !important;
+}
+
+.card-tittle {
+    font-size: 14px !important;
+    color: #F74D4D;
+}
+
+.card-text {
+    font-size: 12px !important;
+    font-weight: lighter;
+    line-height: 20px;
+
+}
