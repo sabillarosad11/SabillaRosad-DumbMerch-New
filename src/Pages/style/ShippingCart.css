@@ -1,0 +1,110 @@
+* {
+    color: #fff;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0B0B0B !important;
+}
+
+
+/* Navbar */
+.bg-navbar {
+    background-color: #0B0B0B;
+}
+
+.logo-navbar {
+    width: 56px !important;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.active {
+    color: #F74D4D !important;
+}
+
+/* Content */
+.btn-home {
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-cart {
+    text-decoration: none;
+    color: #F74D4D !important;
+    margin-right: 20px;
+}
+
+.img-list-transaction {
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+}
+
+.btn-remove {
+    background-color: #F74D4D;
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+th {
+    line-height: 34px;
+}
+
+td {
+    font-weight: 400;
+    line-height: 34px;
+}
+
+.product-buy {
+    margin-top: 40px;
+}
+
+.product-buy a {
+    font-weight: 600;
+}
+
+.table {
+    margin-top: 10px;
+}
+
+.main-address {
+    margin-top: 25px;
+}
+
+.form-shipping {
+    background-color: #BCBCBC !important;
+    color: #000 !important;
+}
+
+.payment {
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
+
+.payment h6 {
+    font-weight: 600;
+}
+
+.payment p {
+    font-size: 14px;
+    color: #BCBCBC;
+    margin-top: -8px;
+}
+
+.btn-checkout {
+    background-color: #F74D4D;
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    float: right;
+}

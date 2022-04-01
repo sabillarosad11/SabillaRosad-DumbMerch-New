@@ -6,12 +6,13 @@ import React from 'react';
 // import Profile from "./Pages/Profile";
 // import Category from "./Pages/Category";
 // import Product from "./Pages/Product";
-import Complain from "./Pages/complain";
+// import Complain from "./Pages/complain";
+import ShippingCart from "./Pages/ShippingCart";
 import './App.css';
 
 function App() {
   return (
-      <Complain />
+      <ShippingCart />
   );
 }
 
